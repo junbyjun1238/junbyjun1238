@@ -12,8 +12,8 @@
 
 <br>
 
-영지식 증명의 이론과 응용을 연구합니다.
-수학으로 신뢰를 설계하고, 프라이버시가 기본값인 시스템을 만듭니다.
+Researching the theory and applications of zero-knowledge proofs.  
+Designing trust through mathematics, building systems where privacy is the default.
 
 #### Research Interests
 
